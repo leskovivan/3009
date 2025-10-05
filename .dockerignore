@@ -1,0 +1,11 @@
+.dockerignore
+.git
+.gitignore
+**/bin
+**/obj
+**/.vs
+**/*.user
+**/*.suo
+**/*.swp
+**/*.tmp
+**/*.log
